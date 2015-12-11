@@ -1,0 +1,9 @@
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\bin\Debug\First_WindowsService.exe.config
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.csprojResolveAssemblyReference.cache
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.MyService.resources
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.ProjectInstaller.resources
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.csproj.GenerateResource.Cache
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\bin\Debug\First_WindowsService.exe
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\bin\Debug\First_WindowsService.pdb
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.exe
+E:\dipeeka\learning_demos\First_WindowsService\First_WindowsService\obj\Debug\First_WindowsService.pdb
